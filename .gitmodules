@@ -1,0 +1,6 @@
+[submodule "pet-shop-server"]
+	path = pet-shop-server
+	url = https://github.com/ShamsutdinovSalavat/pet-shop-server
+[submodule "pet-shop-client"]
+	path = pet-shop-client
+	url = https://github.com/ShamsutdinovSalavat/pet-shop-client
